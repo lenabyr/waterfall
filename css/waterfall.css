@@ -1,0 +1,19 @@
+*{margin:0;padding:0;}
+#container{
+	position:relative;
+}
+.box{
+	padding-left:10px;
+	padding-top:10px;
+	float:left;
+}
+.picture{
+	padding: 10px;
+	border:1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #ccc;
+}
+.picture img{
+	width: 155px;
+	height: auto;
+}
