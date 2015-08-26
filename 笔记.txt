@@ -1,1 +1,2 @@
-瀑布流的原理是所有的盒子都通过计算进行绝对定位；拖动滚动条加载图片还未实现
+瀑布流的原理是所有的盒子都通过计算进行绝对定位；拖动滚动条加载图片;
+<script src="js/waterfall.js"></script>使用js原生代码写的，而<script src="js/waterfall-jquery.js"></script>是用jQuery写的。
